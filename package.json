@@ -1,0 +1,23 @@
+{
+  "name": "notes-node",
+  "version": "1.0.0",
+  "description": "learning is hard",
+  "main": "ini.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakanybalazs/notes-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zakanybalazs/notes-node/issues"
+  },
+  "homepage": "https://github.com/zakanybalazs/notes-node#readme"
+}
